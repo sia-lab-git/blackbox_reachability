@@ -1,0 +1,10 @@
+absl_py==2.1.0
+flax==0.8.5
+jax==0.4.30
+jaxlib==0.4.30
+jax-cuda12-pjrt==0.4.30
+jax-cuda12-plugin==0.4.30
+numpy==2.1.2
+optax==0.2.3
+pandas==2.2.3
+tqdm==4.19.9
